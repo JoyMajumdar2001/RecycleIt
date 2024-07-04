@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">RecycleIt</string>
+    <string name="ai_key">Gemini_Api_Key</string>
+    <string name="scan_item">Scan item</string>
+    <string name="rec_tips">Scan any item for recycling tips!</string>
+</resources>
